@@ -1,0 +1,7 @@
+{
+    "jwtSecretKey": "i am the best",
+    "dummyUser":{
+        "username": "admin",
+        "password": "admin1234"
+    }
+}
